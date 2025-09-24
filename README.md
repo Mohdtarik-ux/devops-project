@@ -9,6 +9,9 @@ Welcome to my first internship project! This is a simple web application built w
 - **URL**: http://my-awesome-web-app.eba-c9jhzzie.us-east-1.elasticbeanstalk.com/
 
 #Image
+<img width="1366" height="768" alt="sw2" src="https://github.com/user-attachments/assets/10701512-f1ba-4cfb-b213-68a051d4912c" />
+<img width="1366" height="768" alt="simpleweb" src="https://github.com/user-attachments/assets/d6b69170-a80e-4ec1-a565-e33e09d8199a" />
+
 
 
 ## Working Steps
