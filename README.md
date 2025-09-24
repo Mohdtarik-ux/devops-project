@@ -6,7 +6,7 @@ Welcome to my first internship project! This is a simple web application built w
 - **Tech Stack**: Node.js, Express, EJS
 - **Deployment**: AWS Elastic Beanstalk
 - **Status**: Successfully deployed and running
-- **URL**: [http://my-awesome-web-app-env.eba-xyz.us-east-1.elasticbeanstalk.com](http://my-awesome-web-app-env.eba-xyz.us-east-1.elasticbeanstalk.com)
+- **URL**: http://my-awesome-web-app.eba-c9jhzzie.us-east-1.elasticbeanstalk.com/
 
 #Image
 
